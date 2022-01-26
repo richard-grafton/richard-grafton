@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richard-grafton
-- 👀 I’m interested in Golang, C#, TDD, DDD, Microservices
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Golang, C#, TDD, DDD, Microservices, Control Systems, SCADA. 
+- 🌱 I’m currently learning Golang & React.js
+- 💞️ I’m looking to collaborate on Golang projects. 
 - 📫 How to reach me ...
 
 <!---
