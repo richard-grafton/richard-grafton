@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richard-grafton
-- 👀 I’m interested in Golang, C#, TDD, DDD, Microservice
+- 👀 I’m interested in Golang, C#, TDD, DDD, Microservices
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
